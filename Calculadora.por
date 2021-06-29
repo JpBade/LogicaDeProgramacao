@@ -29,7 +29,7 @@ programa
 	}
 	funcao soma()
 	{
-		escreva("Somei!!!!!\n")
+		escreva("Some!!!!!\n")
 	}
 	funcao subtracao()
 	{
